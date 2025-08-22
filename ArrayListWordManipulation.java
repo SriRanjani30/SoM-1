@@ -37,6 +37,7 @@ public class ArrayListWordManipulation{
                 System.out.println(a);
                 System.out.println();
                 }
+                break;
                 else{
                     System.out.println("Element not present in the array list....");
                 }
