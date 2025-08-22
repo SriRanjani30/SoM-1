@@ -2,13 +2,11 @@ This is my continuation in learning java. The jar file has three programs namely
 You have to execute the codes one by one as required using the following command in your terminal: 
 
  -> java -cp Programs.jar frequencyCounter
- 
  -> java -cp Programs.jar NumberGuessingGame
- 
  -> java -cp Programs.jar ArrayListWordManipulation.
- 
 
 Here are some new things I have learned:
+
 [^a-zA-Z ] - Except a-z, A-Z, spaces every other symbols will be removed which left the sentence with only words and spaces.
 
 Arrays.asList(s.trim().split("\\s+")) - ".trim" this will remove all extra spaces in the start of the sentence and at end of the sentence. "\\s+" - this will remove all spaces inside the sentences including extra ones in between the words.
