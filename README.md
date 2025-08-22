@@ -10,9 +10,13 @@ Here are some new things I have learned:
 [^a-zA-Z ] - Except a-z, A-Z, spaces every other symbols will be removed which left the sentence with only words and spaces.
 
 Arrays.asList(s.trim().split("\\s+")) - ".trim" this will remove all extra spaces in the start of the sentence and at end of the sentence. "\\s+" - this will remove all spaces inside the sentences including extra ones in between the words.
+
 I am still at the beginning stage of hashmap and arraylist.
+
 I revised the super for each loop which is a replacement to traditional for loop;
+
 I also learned and implemented some improtant concepts in hashmap like looping each value of an hashmap through a for loop. for this we use hashmap.entrySet() to loop through each pair present inside the hashmap.
+
 I also revised switch() in java and also the way of exiting switch using "return". Here the while loop keeps on executing until the user chooses the case with "return".
 
 
